@@ -18,12 +18,12 @@ This is a simple implementation of the classic Snake game using Python's `turtle
 
 ## 📁 Project Structure
 
-snake_game/
-│
-├── main.py # Main game loop and event handling
-├── snake.py # Snake class and movement logic
-├── food.py # Food class with random spawn logic
-└── scoreboard.py # ScoreBoard class to display score and game over
+snake_game:
+
+- main.py # Main game loop and event handling
+- snake.py # Snake class and movement logic
+- food.py # Food class with random spawn logic
+- scoreboard.py # ScoreBoard class to display score and game over
 
 ## 🧠 Concepts Practiced
 
