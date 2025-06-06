@@ -41,6 +41,11 @@ python main.py
 
 A game window will open. Use W, A, S, D keys to control the snake.
 
+
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/78cc7336-50ad-47e8-8bab-359333863519)
+
+
 ### Prerequisites
 
 Make sure you have Python installed. This game uses only built-in libraries (`turtle`, `random`, `time`).
